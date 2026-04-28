@@ -47,4 +47,4 @@ async def praticar(ctx):
     pratica = random.choice(praticas)
     await ctx.send(pratica)
 
-b
+bot.run("token")
